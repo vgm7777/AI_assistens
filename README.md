@@ -2,7 +2,7 @@
 
 Ссылка на проект - https://t.me/vgm_narodnyeokna_bot; @vgm_narodnyeokna_bot
 
-
+![Иллюстрация к проекту](https://github.com/vgm7777/AI_assistens/blob/main/%D0%91%D0%BE%D1%82%20-%20%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%B0.jpg)
 
 ## О проекте
 
