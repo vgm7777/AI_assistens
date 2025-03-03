@@ -114,5 +114,5 @@
 
 Если у вас возникли вопросы или предложения по улучшению проекта, пожалуйста, свяжитесь с нами:
 
-- Email: [your-email@example.com](mailto:vgm7777@gmail.com)
-- GitHub: [https://github.com/your-username](https://github.com/vgm7777)
+- Email: ![your-email@example.com](mailto:vgm7777@gmail.com)
+- GitHub: ![https://github.com/your-username](https://github.com/vgm7777)
